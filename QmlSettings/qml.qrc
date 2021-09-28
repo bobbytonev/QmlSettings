@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>RoundButtons.qml</file>
+        <file>images/Wi-Fi.png</file>
+        <file>images/Appearance.png</file>
+        <file>images/Apps.png</file>
+        <file>images/Bluetooth.png</file>
+        <file>images/Sound.png</file>
+        <file>images/Storage.png</file>
+        <file>images/System.png</file>
+        <file>images/Connectivity.png</file>
+        <file>Wi-Fi-page.qml</file>
+        <file>Bluetooth-page.qml</file>
+        <file>main-page.qml</file>
+        <file>Appearance-page.qml</file>
+        <file>Apps-page.qml</file>
+        <file>Sound-page.qml</file>
+        <file>SettingsButton.qml</file>
+        <file>SoundSlider.qml</file>
+        <file>images/sound-page/settings-call-volume.png</file>
+        <file>images/sound-page/settings-in-call-volume.png</file>
+        <file>images/sound-page/settings-media-volume.png</file>
+		<file>AllApps.qml</file>
+		<file>System-page.qml</file>
+        <file>DefaultApps.qml</file>
+        <file>Startup.qml</file>
+		<file>PageButton.qml</file>
+		<file>images/pair.png</file>
+        <file>images/previous.png</file>
+        <file>images/Font.png</file>
+        <file>images/Icons.png</file>
+        <file>images/Themes.png</file>
+		<file>Language-page.qml</file>
+		<file>Date and clock-page.qml</file>
+		<file>About-page.qml</file>
+		<file>Fonts.qml</file>
+		<file>ClockDialog.qml</file>
+		<file>TimeZonePopup.qml</file>
+		<file>search.png</file>
+		<file>Storage-page.qml</file>
+		<file>DateDialog.qml</file>
+		<file>ThemePopup.qml</file>
+		
+    </qresource>
+</RCC>
